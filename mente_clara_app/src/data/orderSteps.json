@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "activity": "Preparar el desayuno",
+    "steps": [
+      { "order": 1, "text": "Calentar el agua" },
+      { "order": 2, "text": "Servir el té" },
+      { "order": 3, "text": "Comer el desayuno" }
+    ]
+  },
+  {
+    "id": 2,
+    "activity": "Lavarse los dientes",
+    "steps": [
+      { "order": 1, "text": "Tomar el cepillo" },
+      { "order": 2, "text": "Poner la pasta" },
+      { "order": 3, "text": "Cepillarse los dientes" }
+    ]
+  },
+  {
+    "id": 3,
+    "activity": "Regar las plantas",
+    "steps": [
+      { "order": 1, "text": "Llenar la regadera" },
+      { "order": 2, "text": "Ir al jardín" },
+      { "order": 3, "text": "Regar cada planta" }
+    ]
+  },
+  {
+    "id": 4,
+    "activity": "Salir de paseo",
+    "steps": [
+      { "order": 1, "text": "Ponerse los zapatos" },
+      { "order": 2, "text": "Tomar la bolsa" },
+      { "order": 3, "text": "Cerrar la puerta" }
+    ]
+  },
+  {
+    "id": 5,
+    "activity": "Preparar una carta",
+    "steps": [
+      { "order": 1, "text": "Escribir la carta" },
+      { "order": 2, "text": "Doblar el papel" },
+      { "order": 3, "text": "Meter en el sobre" }
+    ]
+  },
+  {
+    "id": 6,
+    "activity": "Hacer una llamada",
+    "steps": [
+      { "order": 1, "text": "Buscar el número" },
+      { "order": 2, "text": "Marcar el número" },
+      { "order": 3, "text": "Esperar la respuesta" },
+      { "order": 4, "text": "Conversar" }
+    ]
+  },
+  {
+    "id": 7,
+    "activity": "Preparar la cena",
+    "steps": [
+      { "order": 1, "text": "Encender la estufa" },
+      { "order": 2, "text": "Calentar la comida" },
+      { "order": 3, "text": "Servir en el plato" },
+      { "order": 4, "text": "Sentarse a comer" }
+    ]
+  },
+  {
+    "id": 8,
+    "activity": "Ir al mercado",
+    "steps": [
+      { "order": 1, "text": "Hacer la lista" },
+      { "order": 2, "text": "Ir al mercado" },
+      { "order": 3, "text": "Comprar lo de la lista" },
+      { "order": 4, "text": "Volver a casa" }
+    ]
+  }
+]

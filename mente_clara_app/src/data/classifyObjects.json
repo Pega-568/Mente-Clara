@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "level": "easy",
+    "categories": [
+      { "id": "frutas", "name": "Frutas", "emoji": "🍎" },
+      { "id": "herramientas", "name": "Herramientas", "emoji": "🔧" }
+    ],
+    "items": [
+      { "id": "obj1", "name": "Manzana", "emoji": "🍎", "categoryId": "frutas" },
+      { "id": "obj2", "name": "Banano", "emoji": "🍌", "categoryId": "frutas" },
+      { "id": "obj3", "name": "Martillo", "emoji": "🔨", "categoryId": "herramientas" },
+      { "id": "obj4", "name": "Destornillador", "emoji": "🪛", "categoryId": "herramientas" }
+    ]
+  },
+  {
+    "id": 2,
+    "level": "medium",
+    "categories": [
+      { "id": "comida", "name": "Comida", "emoji": "🍕" },
+      { "id": "ropa", "name": "Ropa", "emoji": "👕" }
+    ],
+    "items": [
+      { "id": "obj5", "name": "Pizza", "emoji": "🍕", "categoryId": "comida" },
+      { "id": "obj6", "name": "Pastel", "emoji": "🎂", "categoryId": "comida" },
+      { "id": "obj7", "name": "Sándwich", "emoji": "🥪", "categoryId": "comida" },
+      { "id": "obj8", "name": "Camiseta", "emoji": "👕", "categoryId": "ropa" },
+      { "id": "obj9", "name": "Pantalón", "emoji": "👖", "categoryId": "ropa" },
+      { "id": "obj10", "name": "Sombrero", "emoji": "👒", "categoryId": "ropa" }
+    ]
+  },
+  {
+    "id": 3,
+    "level": "hard",
+    "categories": [
+      { "id": "frutas", "name": "Frutas", "emoji": "🍎" },
+      { "id": "herramientas", "name": "Herramientas", "emoji": "🔧" },
+      { "id": "ropa", "name": "Ropa", "emoji": "👕" }
+    ],
+    "items": [
+      { "id": "obj11", "name": "Manzana", "emoji": "🍎", "categoryId": "frutas" },
+      { "id": "obj12", "name": "Banano", "emoji": "🍌", "categoryId": "frutas" },
+      { "id": "obj13", "name": "Martillo", "emoji": "🔨", "categoryId": "herramientas" },
+      { "id": "obj14", "name": "Destornillador", "emoji": "🪛", "categoryId": "herramientas" },
+      { "id": "obj15", "name": "Camiseta", "emoji": "👕", "categoryId": "ropa" },
+      { "id": "obj16", "name": "Pantalón", "emoji": "👖", "categoryId": "ropa" },
+      { "id": "obj17", "name": "Fresa", "emoji": "🍓", "categoryId": "frutas" },
+      { "id": "obj18", "name": "Llave inglesa", "emoji": "🔧", "categoryId": "herramientas" }
+    ]
+  }
+]

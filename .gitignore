@@ -1,0 +1,32 @@
+# Dependency directories
+mente_clara_app/node_modules/
+mente_clara_app/dist/
+
+# Android build outputs and local configuration
+mente_clara_app/android/.gradle/
+mente_clara_app/android/build/
+mente_clara_app/android/local.properties
+mente_clara_app/android/app/build/
+mente_clara_app/android/app/src/main/assets/public
+mente_clara_app/android/app/src/main/assets/capacitor.config.json
+mente_clara_app/android/app/src/main/assets/capacitor.plugins.json
+mente_clara_app/android/app/src/main/res/xml/config.xml
+
+# IDE and OS files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Extra assets
+stitch_mente_clara_cognitiva/
+stitch_mente_clara_cognitiva.zip

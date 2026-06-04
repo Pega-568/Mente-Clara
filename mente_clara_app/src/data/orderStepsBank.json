@@ -1,0 +1,2842 @@
+[
+  {
+    "id": 1,
+    "level": "easy",
+    "activity": "Lavarse las manos",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Mojarse las manos con agua"
+      },
+      {
+        "order": 2,
+        "text": "Aplicar jabón y frotar"
+      },
+      {
+        "order": 3,
+        "text": "Enjuagarse y secarse con la toalla"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "level": "easy",
+    "activity": "Hacer una tostada",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Colocar el pan en la tostadora"
+      },
+      {
+        "order": 2,
+        "text": "Esperar a que se tueste"
+      },
+      {
+        "order": 3,
+        "text": "Untar mantequilla o mermelada"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "level": "easy",
+    "activity": "Peinarse",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Tomar el peine o cepillo"
+      },
+      {
+        "order": 2,
+        "text": "Peinar el cabello con suavidad"
+      },
+      {
+        "order": 3,
+        "text": "Limpiar el peine y guardarlo"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "level": "easy",
+    "activity": "Regar una maceta",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Llenar un vaso o regadera con agua"
+      },
+      {
+        "order": 2,
+        "text": "Acercarse a la maceta"
+      },
+      {
+        "order": 3,
+        "text": "Verter el agua en la tierra"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "level": "easy",
+    "activity": "Comer una manzana",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Lavar la manzana con agua"
+      },
+      {
+        "order": 2,
+        "text": "Darle mordiscos para comerla"
+      },
+      {
+        "order": 3,
+        "text": "Desechar el centro de la fruta"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "level": "easy",
+    "activity": "Abrir una puerta con llave",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Sacar la llave del bolsillo"
+      },
+      {
+        "order": 2,
+        "text": "Introducir la llave en la cerradura"
+      },
+      {
+        "order": 3,
+        "text": "Girar la llave y abrir la puerta"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "level": "easy",
+    "activity": "Encender la televisión",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Tomar el control remoto"
+      },
+      {
+        "order": 2,
+        "text": "Presionar el botón de encendido"
+      },
+      {
+        "order": 3,
+        "text": "Elegir el canal que desea ver"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "level": "easy",
+    "activity": "Enviar un mensaje de texto",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Abrir la aplicación de mensajes"
+      },
+      {
+        "order": 2,
+        "text": "Escribir el texto con el teclado"
+      },
+      {
+        "order": 3,
+        "text": "Presionar el botón de enviar"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "level": "easy",
+    "activity": "Usar el paraguas",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Ver que está lloviendo afuera"
+      },
+      {
+        "order": 2,
+        "text": "Tomar el paraguas de su sitio"
+      },
+      {
+        "order": 3,
+        "text": "Abrir el paraguas al salir"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "level": "easy",
+    "activity": "Tomar una pastilla",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Sacar la pastilla del envase"
+      },
+      {
+        "order": 2,
+        "text": "Colocar la pastilla en la boca"
+      },
+      {
+        "order": 3,
+        "text": "Beber un sorbo de agua para pasarla"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "level": "easy",
+    "activity": "Escuchar música",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Tomar los auriculares"
+      },
+      {
+        "order": 2,
+        "text": "Conectarlos a la radio o teléfono"
+      },
+      {
+        "order": 3,
+        "text": "Presionar el botón de reproducir"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "level": "easy",
+    "activity": "Leer el periódico",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Recoger el periódico de la entrada"
+      },
+      {
+        "order": 2,
+        "text": "Sentarse en un lugar cómodo"
+      },
+      {
+        "order": 3,
+        "text": "Abrir las páginas para leer"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "level": "easy",
+    "activity": "Limpiar la mesa",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Tomar un trapo húmedo"
+      },
+      {
+        "order": 2,
+        "text": "Limpiar las migajas de la mesa"
+      },
+      {
+        "order": 3,
+        "text": "Sacudir el trapo en el lavabo"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "level": "easy",
+    "activity": "Secar el piso",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Tomar el trapeador"
+      },
+      {
+        "order": 2,
+        "text": "Pasarlo por la zona húmeda"
+      },
+      {
+        "order": 3,
+        "text": "Dejar secar el piso al aire"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "level": "easy",
+    "activity": "Cortar un papel",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Tomar las tijeras con cuidado"
+      },
+      {
+        "order": 2,
+        "text": "Cortar siguiendo la línea"
+      },
+      {
+        "order": 3,
+        "text": "Guardar las tijeras en su lugar"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "level": "easy",
+    "activity": "Colgar un cuadro",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Clavar el gancho en la pared"
+      },
+      {
+        "order": 2,
+        "text": "Colgar el cuadro con cuidado"
+      },
+      {
+        "order": 3,
+        "text": "Alinearlo para que quede derecho"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "level": "easy",
+    "activity": "Pelar un plátano",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Tomar el plátano con las manos"
+      },
+      {
+        "order": 2,
+        "text": "Retirar la cáscara hacia abajo"
+      },
+      {
+        "order": 3,
+        "text": "Comer el plátano a bocados"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "level": "easy",
+    "activity": "Lustrar zapatos",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Limpiar el polvo del zapato"
+      },
+      {
+        "order": 2,
+        "text": "Aplicar la crema lustradora"
+      },
+      {
+        "order": 3,
+        "text": "Cepillar fuerte para dar brillo"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "level": "easy",
+    "activity": "Calentar comida",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Servir la comida en un plato"
+      },
+      {
+        "order": 2,
+        "text": "Meter el plato al microondas"
+      },
+      {
+        "order": 3,
+        "text": "Programar el tiempo de calentado"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "level": "easy",
+    "activity": "Escribir una nota",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Buscar papel y un lápiz"
+      },
+      {
+        "order": 2,
+        "text": "Anotar el recado que desea recordar"
+      },
+      {
+        "order": 3,
+        "text": "Pegar la nota en el refrigerador"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "level": "easy",
+    "activity": "Ponerse los lentes",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Sacar los lentes del estuche"
+      },
+      {
+        "order": 2,
+        "text": "Colocarlos en el rostro con cuidado"
+      },
+      {
+        "order": 3,
+        "text": "Limpiar los cristales si hace falta"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "level": "easy",
+    "activity": "Apagar la luz",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Acercarse al interruptor de luz"
+      },
+      {
+        "order": 2,
+        "text": "Presionar el interruptor hacia abajo"
+      },
+      {
+        "order": 3,
+        "text": "Salir de la habitación a oscuras"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "level": "easy",
+    "activity": "Cerrar la ventana",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Acercarse a la ventana abierta"
+      },
+      {
+        "order": 2,
+        "text": "Deslizar el vidrio para cerrar"
+      },
+      {
+        "order": 3,
+        "text": "Asegurar el pestillo de seguridad"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "level": "easy",
+    "activity": "Lavar una taza",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Poner jabón en la esponja"
+      },
+      {
+        "order": 2,
+        "text": "Tallar la taza por dentro y fuera"
+      },
+      {
+        "order": 3,
+        "text": "Enjuagar la espuma con abundante agua"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "level": "easy",
+    "activity": "Barrer la cocina",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Tomar la escoba por el mango"
+      },
+      {
+        "order": 2,
+        "text": "Juntar el polvo en un montón"
+      },
+      {
+        "order": 3,
+        "text": "Recoger la basura con el recogedor"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "level": "easy",
+    "activity": "Buscar un libro",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Ir hacia la estantería de libros"
+      },
+      {
+        "order": 2,
+        "text": "Buscar el título en los lomos"
+      },
+      {
+        "order": 3,
+        "text": "Tomar el libro para leerlo"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "level": "easy",
+    "activity": "Hacer la maleta",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Abrir la maleta vacía"
+      },
+      {
+        "order": 2,
+        "text": "Doblar y colocar la ropa"
+      },
+      {
+        "order": 3,
+        "text": "Cerrar el cierre de la maleta"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "level": "easy",
+    "activity": "Poner flores en florero",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Cortar los tallos de las flores"
+      },
+      {
+        "order": 2,
+        "text": "Llenar el florero con agua fresca"
+      },
+      {
+        "order": 3,
+        "text": "Colocar las flores en el florero"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "level": "easy",
+    "activity": "Encender una vela",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Colocar la vela en su base"
+      },
+      {
+        "order": 2,
+        "text": "Tomar un cerillo o encendedor"
+      },
+      {
+        "order": 3,
+        "text": "Prender la mecha con cuidado"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "level": "easy",
+    "activity": "Ponerse el abrigo",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Tomar el abrigo del gancho"
+      },
+      {
+        "order": 2,
+        "text": "Meter los brazos por las mangas"
+      },
+      {
+        "order": 3,
+        "text": "Subir el cierre o abrochar botones"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "level": "medium",
+    "activity": "Hacer una llamada telefónica",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Buscar el contacto en la agenda"
+      },
+      {
+        "order": 2,
+        "text": "Marcar el número de teléfono"
+      },
+      {
+        "order": 3,
+        "text": "Esperar a que suene y respondan"
+      },
+      {
+        "order": 4,
+        "text": "Conversar amablemente con la persona"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "level": "medium",
+    "activity": "Preparar té caliente",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Poner agua a calentar en la tetera"
+      },
+      {
+        "order": 2,
+        "text": "Colocar la bolsita de té en la taza"
+      },
+      {
+        "order": 3,
+        "text": "Verter el agua caliente en la taza"
+      },
+      {
+        "order": 4,
+        "text": "Dejar reposar unos minutos antes de beber"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "level": "medium",
+    "activity": "Lavarse los dientes",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Poner pasta de dientes en el cepillo"
+      },
+      {
+        "order": 2,
+        "text": "Mojar el cepillo con un poco de agua"
+      },
+      {
+        "order": 3,
+        "text": "Cepillar los dientes con movimientos suaves"
+      },
+      {
+        "order": 4,
+        "text": "Enjuagarse la boca con agua limpia"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "level": "medium",
+    "activity": "Salir de paseo de casa",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Colocarse los zapatos cómodos"
+      },
+      {
+        "order": 2,
+        "text": "Ponerse la chaqueta o abrigo"
+      },
+      {
+        "order": 3,
+        "text": "Tomar las llaves de la casa"
+      },
+      {
+        "order": 4,
+        "text": "Cerrar la puerta con llave al salir"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "level": "medium",
+    "activity": "Regar el jardín con manguera",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Tomar la manguera del soporte"
+      },
+      {
+        "order": 2,
+        "text": "Abrir la llave de paso del agua"
+      },
+      {
+        "order": 3,
+        "text": "Regar las plantas y el césped"
+      },
+      {
+        "order": 4,
+        "text": "Cerrar la llave de agua al terminar"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "level": "medium",
+    "activity": "Preparar ensalada mixta",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Lavar muy bien todas las verduras"
+      },
+      {
+        "order": 2,
+        "text": "Cortar la lechuga y el tomate"
+      },
+      {
+        "order": 3,
+        "text": "Colocar los ingredientes en un tazón"
+      },
+      {
+        "order": 4,
+        "text": "Agregar aceite, sal y limón al gusto"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "level": "medium",
+    "activity": "Comprar pan fresco",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Tomar la bolsa de compras y dinero"
+      },
+      {
+        "order": 2,
+        "text": "Caminar hacia la panadería del barrio"
+      },
+      {
+        "order": 3,
+        "text": "Pedir las piezas de pan deseadas"
+      },
+      {
+        "order": 4,
+        "text": "Pagar y recibir el cambio del vendedor"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "level": "medium",
+    "activity": "Enviar una carta postal",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Escribir el mensaje en la hoja"
+      },
+      {
+        "order": 2,
+        "text": "Meter la hoja dentro del sobre"
+      },
+      {
+        "order": 3,
+        "text": "Escribir la dirección y pegar estampilla"
+      },
+      {
+        "order": 4,
+        "text": "Depositar el sobre en el buzón de correo"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "level": "medium",
+    "activity": "Tender la cama en la mañana",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Sacudir las sábanas y estirarlas"
+      },
+      {
+        "order": 2,
+        "text": "Colocar la colcha sobre las sábanas"
+      },
+      {
+        "order": 3,
+        "text": "Acomodar las almohadas en la cabecera"
+      },
+      {
+        "order": 4,
+        "text": "Doblar la cobija al pie de la cama"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "level": "medium",
+    "activity": "Cocinar un huevo estrellado",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Poner a calentar el sartén al fuego"
+      },
+      {
+        "order": 2,
+        "text": "Agregar una cucharada de aceite"
+      },
+      {
+        "order": 3,
+        "text": "Romper el huevo y verterlo con cuidado"
+      },
+      {
+        "order": 4,
+        "text": "Servir el huevo cocido en un plato"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "level": "medium",
+    "activity": "Escuchar un disco de música",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Abrir el estuche del disco compacto"
+      },
+      {
+        "order": 2,
+        "text": "Colocar el disco en la bandeja del reproductor"
+      },
+      {
+        "order": 3,
+        "text": "Cerrar la bandeja con suavidad"
+      },
+      {
+        "order": 4,
+        "text": "Presionar el botón de inicio o reproducción"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "level": "medium",
+    "activity": "Tomar una fotografía",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Encender la cámara o el teléfono"
+      },
+      {
+        "order": 2,
+        "text": "Apuntar hacia la persona o paisaje"
+      },
+      {
+        "order": 3,
+        "text": "Enfocar la imagen en la pantalla"
+      },
+      {
+        "order": 4,
+        "text": "Presionar el botón para tomar la foto"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "level": "medium",
+    "activity": "Planchar una camisa arrugada",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Conectar y calentar la plancha"
+      },
+      {
+        "order": 2,
+        "text": "Extender la camisa sobre la mesa de planchar"
+      },
+      {
+        "order": 3,
+        "text": "Pasar la plancha eliminando arrugas"
+      },
+      {
+        "order": 4,
+        "text": "Colgar la camisa en un gancho de ropa"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "level": "medium",
+    "activity": "Alimentar a la mascota",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Tomar el plato de comida vacío"
+      },
+      {
+        "order": 2,
+        "text": "Servir la porción de alimento seco"
+      },
+      {
+        "order": 3,
+        "text": "Colocar el plato en el suelo para el animal"
+      },
+      {
+        "order": 4,
+        "text": "Servir agua fresca en su recipiente de bebida"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "level": "medium",
+    "activity": "Abrocharse las agujetas",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Cruzar las dos agujetas del zapato"
+      },
+      {
+        "order": 2,
+        "text": "Pasar una por debajo de la otra y jalar"
+      },
+      {
+        "order": 3,
+        "text": "Formar dos orejas de conejo con las cintas"
+      },
+      {
+        "order": 4,
+        "text": "Cruzar las orejas y ajustarlas con fuerza"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "level": "medium",
+    "activity": "Pintar un cuadro sencillo",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Preparar el lienzo y los pinceles"
+      },
+      {
+        "order": 2,
+        "text": "Servir las pinturas en la paleta"
+      },
+      {
+        "order": 3,
+        "text": "Dibujar el boceto con un lápiz"
+      },
+      {
+        "order": 4,
+        "text": "Pintar los espacios con los pinceles"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "level": "medium",
+    "activity": "Limpiar la alacena de cocina",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Retirar todos los envases de comida"
+      },
+      {
+        "order": 2,
+        "text": "Limpiar los estantes con un paño húmedo"
+      },
+      {
+        "order": 3,
+        "text": "Revisar las fechas de caducidad"
+      },
+      {
+        "order": 4,
+        "text": "Acomodar de nuevo los productos ordenadamente"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "level": "medium",
+    "activity": "Preparar jugo de naranja",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Lavar las naranjas con agua limpia"
+      },
+      {
+        "order": 2,
+        "text": "Cortar las naranjas por la mitad"
+      },
+      {
+        "order": 3,
+        "text": "Exprimir cada mitad en el exprimidor"
+      },
+      {
+        "order": 4,
+        "text": "Verter el jugo exprimido en un vaso grande"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "level": "medium",
+    "activity": "Poner la mesa para almorzar",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Colocar los manteles individuales"
+      },
+      {
+        "order": 2,
+        "text": "Distribuir los platos en cada sitio"
+      },
+      {
+        "order": 3,
+        "text": "Acomodar cucharas, tenedores y cuchillos"
+      },
+      {
+        "order": 4,
+        "text": "Colocar los vasos al lado de los platos"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "level": "medium",
+    "activity": "Lavar ropa delicada a mano",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Llenar una tina con agua templada"
+      },
+      {
+        "order": 2,
+        "text": "Agregar detergente líquido para ropa"
+      },
+      {
+        "order": 3,
+        "text": "Sumergir y tallar la prenda con suavidad"
+      },
+      {
+        "order": 4,
+        "text": "Enjuagar con agua limpia y exprimir con cuidado"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "level": "medium",
+    "activity": "Preparar cereal con leche",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Tomar un tazón hondo de la alacena"
+      },
+      {
+        "order": 2,
+        "text": "Servir la porción de cereal deseada"
+      },
+      {
+        "order": 3,
+        "text": "Verter leche fría sobre el cereal"
+      },
+      {
+        "order": 4,
+        "text": "Tomar una cuchara para comenzar a comer"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "level": "medium",
+    "activity": "Lavar frutas del mercado",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Colocar las frutas en el escurridor"
+      },
+      {
+        "order": 2,
+        "text": "Abrir la llave de agua fría"
+      },
+      {
+        "order": 3,
+        "text": "Frotar la piel de las frutas suavemente"
+      },
+      {
+        "order": 4,
+        "text": "Secar las frutas con una toalla de papel"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "level": "medium",
+    "activity": "Hacer un licuado de plátano",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Pelar el plátano y cortarlo en trozos"
+      },
+      {
+        "order": 2,
+        "text": "Colocar los trozos en la licuadora"
+      },
+      {
+        "order": 3,
+        "text": "Agregar un vaso de leche y azúcar"
+      },
+      {
+        "order": 4,
+        "text": "Encender la licuadora durante un minuto"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "level": "medium",
+    "activity": "Preparar la bolsa de compras",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Revisar qué hace falta en casa"
+      },
+      {
+        "order": 2,
+        "text": "Escribir los artículos en un papel"
+      },
+      {
+        "order": 3,
+        "text": "Tomar las bolsas de tela reutilizables"
+      },
+      {
+        "order": 4,
+        "text": "Guardar el monedero o cartera en la bolsa"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "level": "medium",
+    "activity": "Limpiar los lentes",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Tomar los lentes por la montura"
+      },
+      {
+        "order": 2,
+        "text": "Aplicar una gota de líquido limpiador"
+      },
+      {
+        "order": 3,
+        "text": "Frotar los cristales con paño de microfibra"
+      },
+      {
+        "order": 4,
+        "text": "Verificar a contraluz que estén limpios"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "level": "medium",
+    "activity": "Cambiar las sábanas",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Quitar las sábanas sucias de la cama"
+      },
+      {
+        "order": 2,
+        "text": "Colocar la sábana de cajón ajustada"
+      },
+      {
+        "order": 3,
+        "text": "Extender la sábana plana encima"
+      },
+      {
+        "order": 4,
+        "text": "Meter las esquinas debajo del colchón"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "level": "medium",
+    "activity": "Hacer gelatina",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Hervir dos tazas de agua en olla"
+      },
+      {
+        "order": 2,
+        "text": "Disolver el polvo de gelatina en agua"
+      },
+      {
+        "order": 3,
+        "text": "Agregar dos tazas de agua fría y mezclar"
+      },
+      {
+        "order": 4,
+        "text": "Verter en moldes y meter al refrigerador"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "level": "medium",
+    "activity": "Bañar al perro en el patio",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Mojar al perro con agua tibia"
+      },
+      {
+        "order": 2,
+        "text": "Aplicar champú especial y dar masaje"
+      },
+      {
+        "order": 3,
+        "text": "Enjuagar con agua para quitar jabón"
+      },
+      {
+        "order": 4,
+        "text": "Secar el pelaje con una toalla vieja"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "level": "medium",
+    "activity": "Organizar el correo recibido",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Recoger las cartas del buzón exterior"
+      },
+      {
+        "order": 2,
+        "text": "Llevar la correspondencia a la mesa"
+      },
+      {
+        "order": 3,
+        "text": "Separar publicidad de facturas importantes"
+      },
+      {
+        "order": 4,
+        "text": "Abrir y leer las cartas personales"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "level": "medium",
+    "activity": "Preparar gel antibacterial",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Poner alcohol en un recipiente limpio"
+      },
+      {
+        "order": 2,
+        "text": "Agregar gel de sábila o aloe vera"
+      },
+      {
+        "order": 3,
+        "text": "Mezclar ambos ingredientes muy bien"
+      },
+      {
+        "order": 4,
+        "text": "Verter el gel en un frasco con dosificador"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "level": "medium",
+    "activity": "Cargar el teléfono móvil",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Buscar el cargador en la habitación"
+      },
+      {
+        "order": 2,
+        "text": "Conectar el cargador al enchufe de pared"
+      },
+      {
+        "order": 3,
+        "text": "Conectar el cable al puerto del teléfono"
+      },
+      {
+        "order": 4,
+        "text": "Verificar en pantalla que esté cargando"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "level": "medium",
+    "activity": "Tomar el transporte público",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Caminar hacia la parada del autobús"
+      },
+      {
+        "order": 2,
+        "text": "Esperar a que llegue la línea correcta"
+      },
+      {
+        "order": 3,
+        "text": "Subir los escalones y pagar el pasaje"
+      },
+      {
+        "order": 4,
+        "text": "Sentarse o sujetarse bien de los pasamanos"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "level": "medium",
+    "activity": "Limpiar los platos después de cenar",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Recoger platos y vasos de la mesa"
+      },
+      {
+        "order": 2,
+        "text": "Llevarlos al fregadero de la cocina"
+      },
+      {
+        "order": 3,
+        "text": "Tallar con esponja jabonosa uno por uno"
+      },
+      {
+        "order": 4,
+        "text": "Enjuagar con agua limpia para quitar jabón"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "level": "medium",
+    "activity": "Preparar el baño de tina",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Colocar el tapón en el desagüe"
+      },
+      {
+        "order": 2,
+        "text": "Abrir las llaves de agua caliente y fría"
+      },
+      {
+        "order": 3,
+        "text": "Medir la temperatura del agua con la mano"
+      },
+      {
+        "order": 4,
+        "text": "Cerrar las llaves cuando esté a buen nivel"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "level": "medium",
+    "activity": "Hacer ejercicio en casa",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Ponerse ropa cómoda y deportiva"
+      },
+      {
+        "order": 2,
+        "text": "Despejar un espacio en la sala de estar"
+      },
+      {
+        "order": 3,
+        "text": "Hacer estiramientos suaves de brazos y piernas"
+      },
+      {
+        "order": 4,
+        "text": "Caminar a paso ligero por unos minutos"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "level": "medium",
+    "activity": "Hornear galletas de chocolate",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Precalentar el horno a temperatura media"
+      },
+      {
+        "order": 2,
+        "text": "Colocar las bolitas de masa en la charola"
+      },
+      {
+        "order": 3,
+        "text": "Meter la charola en el horno caliente"
+      },
+      {
+        "order": 4,
+        "text": "Retirar las galletas cuando estén doradas"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "level": "medium",
+    "activity": "Ordenar el librero",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Sacar los libros de un estante"
+      },
+      {
+        "order": 2,
+        "text": "Limpiar el polvo del estante vacío"
+      },
+      {
+        "order": 3,
+        "text": "Clasificar libros por tamaño o tema"
+      },
+      {
+        "order": 4,
+        "text": "Colocar los libros alineados en su lugar"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "level": "medium",
+    "activity": "Hacer una infusión de manzanilla",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Poner a calentar agua en un pocillo"
+      },
+      {
+        "order": 2,
+        "text": "Poner las flores de manzanilla en taza"
+      },
+      {
+        "order": 3,
+        "text": "Verter el agua hirviendo en la taza"
+      },
+      {
+        "order": 4,
+        "text": "Tapar la taza y esperar a que infusione"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "level": "medium",
+    "activity": "Limpiar el teclado de la computadora",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Apagar la computadora por seguridad"
+      },
+      {
+        "order": 2,
+        "text": "Girar el teclado para sacudir basuritas"
+      },
+      {
+        "order": 3,
+        "text": "Pasar un paño seco entre las teclas"
+      },
+      {
+        "order": 4,
+        "text": "Limpiar la superficie con paño apenas húmedo"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "level": "medium",
+    "activity": "Hacer una ensalada de frutas",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Lavar y pelar frutas de temporada"
+      },
+      {
+        "order": 2,
+        "text": "Picar las frutas en cubos medianos"
+      },
+      {
+        "order": 3,
+        "text": "Colocar las frutas picadas en un tazón"
+      },
+      {
+        "order": 4,
+        "text": "Mezclar con un poco de jugo de naranja"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "level": "hard",
+    "activity": "Preparar café de cafetera de goteo",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Llenar el tanque con agua limpia"
+      },
+      {
+        "order": 2,
+        "text": "Colocar un filtro de papel en canastilla"
+      },
+      {
+        "order": 3,
+        "text": "Agregar cucharadas de café molido"
+      },
+      {
+        "order": 4,
+        "text": "Encender la cafetera presionando botón"
+      },
+      {
+        "order": 5,
+        "text": "Esperar el filtrado completo y servir en taza"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "level": "hard",
+    "activity": "Lavar los platos de la comida",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Llevar platos sucios al fregadero de cocina"
+      },
+      {
+        "order": 2,
+        "text": "Aplicar detergente líquido a la esponja húmeda"
+      },
+      {
+        "order": 3,
+        "text": "Tallar cada plato eliminando restos de grasa"
+      },
+      {
+        "order": 4,
+        "text": "Enjuagar los platos con agua de la llave"
+      },
+      {
+        "order": 5,
+        "text": "Secar con un paño limpio y guardar platos"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "level": "hard",
+    "activity": "Sembrar una planta en el jardín",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Hacer un hoyo de buen tamaño en tierra"
+      },
+      {
+        "order": 2,
+        "text": "Colocar la planta pequeña con raíz en hoyo"
+      },
+      {
+        "order": 3,
+        "text": "Cubrir la raíz con tierra y aplastarla"
+      },
+      {
+        "order": 4,
+        "text": "Regar la tierra con abundante agua limpia"
+      },
+      {
+        "order": 5,
+        "text": "Colocar la maceta en un sitio soleado"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "level": "hard",
+    "activity": "Enviar un paquete por correo postal",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Colocar el objeto dentro de una caja"
+      },
+      {
+        "order": 2,
+        "text": "Cerrar la caja y sellar con cinta adhesiva"
+      },
+      {
+        "order": 3,
+        "text": "Escribir los datos del remitente y destinatario"
+      },
+      {
+        "order": 4,
+        "text": "Llevar la caja a la oficina de correos"
+      },
+      {
+        "order": 5,
+        "text": "Pagar el costo del envío al empleado"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "level": "hard",
+    "activity": "Preparar una sopa caliente de verduras",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Llenar una olla mediana con agua limpia"
+      },
+      {
+        "order": 2,
+        "text": "Colocar la olla sobre la estufa encendida"
+      },
+      {
+        "order": 3,
+        "text": "Agregar verduras picadas y sazonar con sal"
+      },
+      {
+        "order": 4,
+        "text": "Dejar hervir a fuego lento por veinte minutos"
+      },
+      {
+        "order": 5,
+        "text": "Servir la sopa caliente en platos hondos"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "level": "hard",
+    "activity": "Cambiar una bombilla fundida de luz",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Apagar el interruptor de luz de habitación"
+      },
+      {
+        "order": 2,
+        "text": "Colocar una escalera estable debajo de lámpara"
+      },
+      {
+        "order": 3,
+        "text": "Retirar con cuidado la bombilla fría fundida"
+      },
+      {
+        "order": 4,
+        "text": "Enroscar la bombilla nueva en el portalámparas"
+      },
+      {
+        "order": 5,
+        "text": "Encender el interruptor para verificar que funcione"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "level": "hard",
+    "activity": "Retirar billetes del cajero automático",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Introducir la tarjeta de débito en la ranura"
+      },
+      {
+        "order": 2,
+        "text": "Digitar el código de seguridad o NIP"
+      },
+      {
+        "order": 3,
+        "text": "Seleccionar la opción de retiro de efectivo"
+      },
+      {
+        "order": 4,
+        "text": "Ingresar la cantidad de dinero que desea retirar"
+      },
+      {
+        "order": 5,
+        "text": "Retirar los billetes, la tarjeta y el recibo"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "level": "hard",
+    "activity": "Hacer las compras del supermercado",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Escribir la lista de artículos necesarios"
+      },
+      {
+        "order": 2,
+        "text": "Caminar o tomar transporte al supermercado"
+      },
+      {
+        "order": 3,
+        "text": "Recorrer pasillos y colocar productos en carrito"
+      },
+      {
+        "order": 4,
+        "text": "Hacer fila en caja y pagar los artículos"
+      },
+      {
+        "order": 5,
+        "text": "Llevar las bolsas con compras a casa"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "level": "hard",
+    "activity": "Viajar en autobús de la ciudad",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Esperar al autobús en la parada señalada"
+      },
+      {
+        "order": 2,
+        "text": "Hacer la parada con la mano al chofer"
+      },
+      {
+        "order": 3,
+        "text": "Subir al vehículo y pagar tarifa del pasaje"
+      },
+      {
+        "order": 4,
+        "text": "Buscar un asiento libre para sentarse seguro"
+      },
+      {
+        "order": 5,
+        "text": "Presionar el timbre para bajar en su parada"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "level": "hard",
+    "activity": "Lavar el coche familiar en el patio",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Llenar una cubeta con agua y champú especial"
+      },
+      {
+        "order": 2,
+        "text": "Mojar el coche completo con la manguera"
+      },
+      {
+        "order": 3,
+        "text": "Tallar la carrocería con esponja jabonosa"
+      },
+      {
+        "order": 4,
+        "text": "Enjuagar con agua limpia para quitar la espuma"
+      },
+      {
+        "order": 5,
+        "text": "Secar las gotas con un paño de microfibra"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "level": "hard",
+    "activity": "Preparar una tarta de manzana casera",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Pelar y picar las manzanas en rebanadas"
+      },
+      {
+        "order": 2,
+        "text": "Extender la masa sobre el molde para pay"
+      },
+      {
+        "order": 3,
+        "text": "Colocar las manzanas con azúcar y canela"
+      },
+      {
+        "order": 4,
+        "text": "Meter el molde en el horno caliente"
+      },
+      {
+        "order": 5,
+        "text": "Retirar del horno al estar dorada y enfriar"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "level": "hard",
+    "activity": "Lavar el baño completo",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Retirar alfombras y objetos del baño"
+      },
+      {
+        "order": 2,
+        "text": "Aplicar limpiador en inodoro, lavabo y ducha"
+      },
+      {
+        "order": 3,
+        "text": "Tallar con cepillo quitando manchas y suciedad"
+      },
+      {
+        "order": 4,
+        "text": "Enjuagar con abundante agua de cubeta o regadera"
+      },
+      {
+        "order": 5,
+        "text": "Secar el piso con trapeador limpio y secar"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "level": "hard",
+    "activity": "Lavar y tender las sábanas de cama",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Quitar sábanas sucias de cama e ir a lavadora"
+      },
+      {
+        "order": 2,
+        "text": "Meter sábanas a lavadora con jabón y suavizante"
+      },
+      {
+        "order": 3,
+        "text": "Programar ciclo de lavado y esperar a que termine"
+      },
+      {
+        "order": 4,
+        "text": "Sacar sábanas húmedas y llevarlas al tendedero"
+      },
+      {
+        "order": 5,
+        "text": "Colgarlas con pinzas al sol para que se sequen"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "level": "hard",
+    "activity": "Preparar una pizza casera",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Extender la masa de pizza sobre charola plana"
+      },
+      {
+        "order": 2,
+        "text": "Esparcir salsa de tomate sobre toda la masa"
+      },
+      {
+        "order": 3,
+        "text": "Colocar queso mozzarella y los ingredientes extra"
+      },
+      {
+        "order": 4,
+        "text": "Meter al horno precalentado a temperatura alta"
+      },
+      {
+        "order": 5,
+        "text": "Sacar pizza del horno, cortar rebanadas y servir"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "level": "hard",
+    "activity": "Hacer un pastel de cumpleaños",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Mezclar harina, huevos, leche y azúcar en tazón"
+      },
+      {
+        "order": 2,
+        "text": "Verter la mezcla homogénea en molde engrasado"
+      },
+      {
+        "order": 3,
+        "text": "Hornear a fuego medio por cuarenta y cinco minutos"
+      },
+      {
+        "order": 4,
+        "text": "Desmoldar el pastel cocido y dejar enfriar bien"
+      },
+      {
+        "order": 5,
+        "text": "Decorar la parte superior con crema y velas"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "level": "hard",
+    "activity": "Reparar una llanta de bicicleta ponchada",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Voltear la bicicleta apoyando manubrio y asiento"
+      },
+      {
+        "order": 2,
+        "text": "Desmontar la llanta del marco con herramienta"
+      },
+      {
+        "order": 3,
+        "text": "Sacar la cámara interior y buscar el agujero"
+      },
+      {
+        "order": 4,
+        "text": "Pegar un parche especial sobre la ponchadura"
+      },
+      {
+        "order": 5,
+        "text": "Armar la llanta de nuevo e inflarla con aire"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "level": "hard",
+    "activity": "Planchar y doblar pantalones",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Encender y regular temperatura de la plancha"
+      },
+      {
+        "order": 2,
+        "text": "Extender el pantalón en la tabla de planchar"
+      },
+      {
+        "order": 3,
+        "text": "Planchar las piernas cuidando hacer la raya"
+      },
+      {
+        "order": 4,
+        "text": "Doblar el pantalón por la mitad con cuidado"
+      },
+      {
+        "order": 5,
+        "text": "Colocar el pantalón en el armario o gancho"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "level": "hard",
+    "activity": "Preparar pescado al horno",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Limpiar y secar los filetes de pescado fresco"
+      },
+      {
+        "order": 2,
+        "text": "Colocarlos en una charola para horno engrasada"
+      },
+      {
+        "order": 3,
+        "text": "Sazonar con sal, pimienta, ajo y rodajas de limón"
+      },
+      {
+        "order": 4,
+        "text": "Meter la charola en el horno precalentado"
+      },
+      {
+        "order": 5,
+        "text": "Hornear durante veinte minutos y servir caliente"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "level": "hard",
+    "activity": "Hacer compras en el mercado local",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Tomar bolsa de tela y dinero en efectivo"
+      },
+      {
+        "order": 2,
+        "text": "Caminar al mercado y pasar a puestos de verduras"
+      },
+      {
+        "order": 3,
+        "text": "Elegir las mejores frutas y verduras del día"
+      },
+      {
+        "order": 4,
+        "text": "Pagar el total a los comerciantes de los puestos"
+      },
+      {
+        "order": 5,
+        "text": "Regresar a casa con la bolsa llena de comida"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "level": "hard",
+    "activity": "Preparar una lasaña de carne",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Guisar la carne molida con cebolla y tomate"
+      },
+      {
+        "order": 2,
+        "text": "Hervir las láminas de pasta en agua caliente"
+      },
+      {
+        "order": 3,
+        "text": "Hacer capas de pasta, carne y queso en molde"
+      },
+      {
+        "order": 4,
+        "text": "Meter el molde al horno para gratinar el queso"
+      },
+      {
+        "order": 5,
+        "text": "Retirar del horno, dejar reposar un poco y cortar"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "level": "hard",
+    "activity": "Registrarse en una cita médica",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Llegar al centro médico quince minutos antes"
+      },
+      {
+        "order": 2,
+        "text": "Acercarse a la ventanilla de recepción e identificarse"
+      },
+      {
+        "order": 3,
+        "text": "Entregar la tarjeta de salud o identificación oficial"
+      },
+      {
+        "order": 4,
+        "text": "Esperar en la sala a que el médico llame"
+      },
+      {
+        "order": 5,
+        "text": "Entrar al consultorio al escuchar su nombre"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "level": "hard",
+    "activity": "Pagar el servicio de energía eléctrica",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Revisar el recibo de luz para ver monto y fecha"
+      },
+      {
+        "order": 2,
+        "text": "Acercarse al cajero de la compañía o abrir app"
+      },
+      {
+        "order": 3,
+        "text": "Ingresar el código de barras o número de servicio"
+      },
+      {
+        "order": 4,
+        "text": "Realizar el pago con efectivo o tarjeta bancaria"
+      },
+      {
+        "order": 5,
+        "text": "Guardar el comprobante de pago impreso o digital"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "level": "hard",
+    "activity": "Hacer limpieza profunda de la sala",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Retirar el polvo de los muebles con sacudidor"
+      },
+      {
+        "order": 2,
+        "text": "Limpiar los objetos decorativos con paño húmedo"
+      },
+      {
+        "order": 3,
+        "text": "Aspirar o sacudir los cojines de los sillones"
+      },
+      {
+        "order": 4,
+        "text": "Barrer el piso completo acumulando la basura"
+      },
+      {
+        "order": 5,
+        "text": "Pasar el trapeador húmedo por toda la superficie"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "level": "hard",
+    "activity": "Instalar una aplicación en el teléfono móvil",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Abrir la tienda de aplicaciones del dispositivo móvil"
+      },
+      {
+        "order": 2,
+        "text": "Escribir el nombre de la app en buscador"
+      },
+      {
+        "order": 3,
+        "text": "Presionar el botón de descargar o instalar en pantalla"
+      },
+      {
+        "order": 4,
+        "text": "Esperar a que se descargue e instale sola"
+      },
+      {
+        "order": 5,
+        "text": "Tocar el icono nuevo para abrir aplicación instalada"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "level": "hard",
+    "activity": "Preparar un paquete de viaje de fin de semana",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Hacer una lista de ropa y artículos de aseo"
+      },
+      {
+        "order": 2,
+        "text": "Colocar la maleta abierta sobre la cama o mesa"
+      },
+      {
+        "order": 3,
+        "text": "Doblar y acomodar la ropa elegida ordenadamente"
+      },
+      {
+        "order": 4,
+        "text": "Guardar cepillo, pasta e higiene en bolsa pequeña"
+      },
+      {
+        "order": 5,
+        "text": "Cerrar la maleta con el cierre y asegurar correa"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "level": "hard",
+    "activity": "Preparar un sándwich club completo",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Tostar tres rebanadas de pan de molde"
+      },
+      {
+        "order": 2,
+        "text": "Untar mayonesa en las caras de los panes"
+      },
+      {
+        "order": 3,
+        "text": "Colocar jamón, queso, lechuga y rodajas de tomate"
+      },
+      {
+        "order": 4,
+        "text": "Cortar el sándwich en cuatro partes triangulares"
+      },
+      {
+        "order": 5,
+        "text": "Atravesar cada triángulo con un palillo y servir"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "level": "hard",
+    "activity": "Hacer salsa de tomate casera",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Lavar y picar los tomates rojos maduros"
+      },
+      {
+        "order": 2,
+        "text": "Poner los tomates a cocer en agua hirviendo"
+      },
+      {
+        "order": 3,
+        "text": "Licuar los tomates cocidos con ajo y cebolla"
+      },
+      {
+        "order": 4,
+        "text": "Sofreír la salsa licuada en sartén con aceite"
+      },
+      {
+        "order": 5,
+        "text": "Sazonar con sal y dejar espesar a fuego bajo"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "level": "hard",
+    "activity": "Hacer conserva de frutas",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Lavar, pelar y picar las frutas elegidas"
+      },
+      {
+        "order": 2,
+        "text": "Hervir agua con azúcar para formar el almíbar"
+      },
+      {
+        "order": 3,
+        "text": "Agregar la fruta al almíbar y cocer a fuego bajo"
+      },
+      {
+        "order": 4,
+        "text": "Verter la fruta y almíbar en frascos esterilizados"
+      },
+      {
+        "order": 5,
+        "text": "Cerrar los frascos herméticamente y dejar enfriar"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "level": "hard",
+    "activity": "Lavar ventanas por fuera",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Llenar cubeta con agua y unas gotas de jabón"
+      },
+      {
+        "order": 2,
+        "text": "Mojar la ventana con esponja eliminando suciedad"
+      },
+      {
+        "order": 3,
+        "text": "Pasar jalador de hule de arriba abajo para secar"
+      },
+      {
+        "order": 4,
+        "text": "Limpiar los marcos de ventana con paño húmedo"
+      },
+      {
+        "order": 5,
+        "text": "Frotar el cristal con papel periódico para brillo"
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "level": "hard",
+    "activity": "Hacer manualidad de papel maché",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Cortar periódico viejo en tiras finas con manos"
+      },
+      {
+        "order": 2,
+        "text": "Preparar engrudo con pegamento blanco y agua tibia"
+      },
+      {
+        "order": 3,
+        "text": "Sumergir tiras en engrudo e ir pegando en molde"
+      },
+      {
+        "order": 4,
+        "text": "Dejar secar la figura por completo un día entero"
+      },
+      {
+        "order": 5,
+        "text": "Pintar la superficie seca con colores de su gusto"
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "level": "hard",
+    "activity": "Lavar el patio con manguera y escoba",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Retirar muebles, plantas y juguetes del patio"
+      },
+      {
+        "order": 2,
+        "text": "Barrer hojas secas y polvo para limpiar superficie"
+      },
+      {
+        "order": 3,
+        "text": "Mojar todo el piso de concreto con la manguera"
+      },
+      {
+        "order": 4,
+        "text": "Tallar con escoba rígida zonas con manchas o lodo"
+      },
+      {
+        "order": 5,
+        "text": "Empujar el agua sucia con jalador hacia coladera"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "level": "hard",
+    "activity": "Cambiar la funda de almohada",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Quitar la funda usada y sucia de la almohada"
+      },
+      {
+        "order": 2,
+        "text": "Llevar la funda sucia al cesto de ropa sucia"
+      },
+      {
+        "order": 3,
+        "text": "Tomar una funda limpia y planchada del cajón"
+      },
+      {
+        "order": 4,
+        "text": "Introducir la almohada dentro de funda limpia"
+      },
+      {
+        "order": 5,
+        "text": "Acomodar las esquinas de almohada en la funda"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "level": "hard",
+    "activity": "Preparar puré de patata",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Pelar y cortar las patatas en trozos medianos"
+      },
+      {
+        "order": 2,
+        "text": "Cocer las patatas en agua hirviendo con sal"
+      },
+      {
+        "order": 3,
+        "text": "Escurrir el agua cuando estén suaves al pincharlas"
+      },
+      {
+        "order": 4,
+        "text": "Machacar las patatas calientes con mantequilla y leche"
+      },
+      {
+        "order": 5,
+        "text": "Mezclar con cuchara hasta lograr consistencia suave"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "level": "hard",
+    "activity": "Preparar un baño de pies relajante",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Llenar una tina pequeña con agua tibia agradable"
+      },
+      {
+        "order": 2,
+        "text": "Agregar una cucharada de sal de mar o esencias"
+      },
+      {
+        "order": 3,
+        "text": "Revolver el agua con la mano para disolver sales"
+      },
+      {
+        "order": 4,
+        "text": "Sumergir los pies y descansar por quince minutos"
+      },
+      {
+        "order": 5,
+        "text": "Secar los pies muy bien con una toalla suave"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "level": "hard",
+    "activity": "Hacer compost casero",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Colocar un contenedor con agujeros en el jardín"
+      },
+      {
+        "order": 2,
+        "text": "Poner una capa de ramas secas en el fondo"
+      },
+      {
+        "order": 3,
+        "text": "Agregar restos de verduras, frutas y café usado"
+      },
+      {
+        "order": 4,
+        "text": "Cubrir los desechos orgánicos con capa de tierra"
+      },
+      {
+        "order": 5,
+        "text": "Humedecer con agua y mezclar cada dos semanas"
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "level": "hard",
+    "activity": "Preparar guacamole mexicano",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Cortar los aguacates maduros por la mitad y quitar hueso"
+      },
+      {
+        "order": 2,
+        "text": "Sacar la pulpa verde con cuchara y poner en plato"
+      },
+      {
+        "order": 3,
+        "text": "Machacar la pulpa con un tenedor hasta hacer pasta"
+      },
+      {
+        "order": 4,
+        "text": "Agregar tomate picado, cebolla picada y sal al gusto"
+      },
+      {
+        "order": 5,
+        "text": "Mezclar suavemente los ingredientes y exprimir limón"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "level": "hard",
+    "activity": "Limpiar el refrigerador completo",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Desconectar el refrigerador y sacar todos los alimentos"
+      },
+      {
+        "order": 2,
+        "text": "Retirar las repisas y cajones desmontables de plástico"
+      },
+      {
+        "order": 3,
+        "text": "Lavar repisas y paredes interiores con agua jabonosa"
+      },
+      {
+        "order": 4,
+        "text": "Secar muy bien el interior con un paño absorbente"
+      },
+      {
+        "order": 5,
+        "text": "Volver a colocar cajones, alimentos y conectar luz"
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "level": "hard",
+    "activity": "Hacer un pastel de carne molida",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Mezclar carne con huevo, cebolla picada y pan molido"
+      },
+      {
+        "order": 2,
+        "text": "Colocar la mezcla de carne compactada en molde rectangular"
+      },
+      {
+        "order": 3,
+        "text": "Bañar la superficie superior con salsa de tomate"
+      },
+      {
+        "order": 4,
+        "text": "Hornear a fuego medio durante cuarenta y cinco minutos"
+      },
+      {
+        "order": 5,
+        "text": "Retirar del horno, dejar reposar un poco y rebanar"
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "level": "hard",
+    "activity": "Preparar arroz blanco esponjoso",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Medir una taza de arroz y lavarla con agua fría"
+      },
+      {
+        "order": 2,
+        "text": "Sofreír el arroz en una cacerola con aceite caliente"
+      },
+      {
+        "order": 3,
+        "text": "Agregar dos tazas de agua caliente y sal al gusto"
+      },
+      {
+        "order": 4,
+        "text": "Tapar la cacerola al hervir y bajar fuego al mínimo"
+      },
+      {
+        "order": 5,
+        "text": "Esperar quince minutos a que se consuma agua y apagar"
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "level": "hard",
+    "activity": "Preparar te caliente de jengibre",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Lavar y pelar un trozo pequeño de raíz de jengibre"
+      },
+      {
+        "order": 2,
+        "text": "Cortar el jengibre pelado en rodajas delgadas"
+      },
+      {
+        "order": 3,
+        "text": "Poner a hervir agua en cazo y agregar el jengibre"
+      },
+      {
+        "order": 4,
+        "text": "Dejar hervir por diez minutos a fuego lento en cazo"
+      },
+      {
+        "order": 5,
+        "text": "Colar la infusión caliente en taza y agregar miel"
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "level": "hard",
+    "activity": "Limpiar los espejos de la casa",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Tomar atomizador con limpiador de vidrios y paño"
+      },
+      {
+        "order": 2,
+        "text": "Rociar el líquido limpiador sobre la superficie de espejo"
+      },
+      {
+        "order": 3,
+        "text": "Frotar con paño limpio de arriba hacia abajo"
+      },
+      {
+        "order": 4,
+        "text": "Limpiar los bordes y esquinas de madera de espejo"
+      },
+      {
+        "order": 5,
+        "text": "Secar bien con papel periódico arrugado para brillo"
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "level": "hard",
+    "activity": "Preparar una avena tibia de desayuno",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Verter una taza de leche en una olla pequeña"
+      },
+      {
+        "order": 2,
+        "text": "Agregar media taza de hojuelas de avena a leche"
+      },
+      {
+        "order": 3,
+        "text": "Calentar a fuego medio moviendo constantemente con cuchara"
+      },
+      {
+        "order": 4,
+        "text": "Cocinar durante cinco minutos hasta que espese la mezcla"
+      },
+      {
+        "order": 5,
+        "text": "Servir en plato hondo con canela y rodajas de plátano"
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "level": "hard",
+    "activity": "Lavar el cepillo para el cabello",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Retirar todos los cabellos atrapados en las cerdas"
+      },
+      {
+        "order": 2,
+        "text": "Llenar tazón con agua tibia y gotas de champú"
+      },
+      {
+        "order": 3,
+        "text": "Sumergir y tallar el cepillo con cepillo de dientes"
+      },
+      {
+        "order": 4,
+        "text": "Enjuagar con agua corriente eliminando restos de jabón"
+      },
+      {
+        "order": 5,
+        "text": "Colocar el cepillo boca abajo en toalla para secar"
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "level": "hard",
+    "activity": "Hacer jabón líquido para manos",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Rayar una barra de jabón neutro con rallador de queso"
+      },
+      {
+        "order": 2,
+        "text": "Hervir un litro de agua purificada en una olla grande"
+      },
+      {
+        "order": 3,
+        "text": "Agregar el jabón rallado a agua hirviendo y disolver"
+      },
+      {
+        "order": 4,
+        "text": "Dejar enfriar la mezcla líquida por varias horas"
+      },
+      {
+        "order": 5,
+        "text": "Verter el jabón líquido frío en recipientes dosificadores"
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "level": "hard",
+    "activity": "Preparar limonada refrescante",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Llenar una jarra grande con agua fresca limpia"
+      },
+      {
+        "order": 2,
+        "text": "Exprimir el jugo de cuatro limones grandes en jarra"
+      },
+      {
+        "order": 3,
+        "text": "Agregar cucharadas de azúcar al gusto a la mezcla"
+      },
+      {
+        "order": 4,
+        "text": "Revolver con cuchara larga para disolver azúcar muy bien"
+      },
+      {
+        "order": 5,
+        "text": "Agregar cubos de hielo y servir bien fría en vasos"
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "level": "hard",
+    "activity": "Ordenar el cajón de los calcetines",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Sacar todos los calcetines sueltos del cajón"
+      },
+      {
+        "order": 2,
+        "text": "Juntar los calcetines por parejas de color y forma"
+      },
+      {
+        "order": 3,
+        "text": "Doblar cada par metiendo uno dentro del otro"
+      },
+      {
+        "order": 4,
+        "text": "Limpiar el fondo del cajón vacío con paño seco"
+      },
+      {
+        "order": 5,
+        "text": "Acomodar las parejas de calcetines dobladas ordenadamente"
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "level": "hard",
+    "activity": "Hacer un aromatizante casero de canela",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Colocar dos tazas de agua en una cacerola mediana"
+      },
+      {
+        "order": 2,
+        "text": "Agregar astillas de canela y clavos de olor a agua"
+      },
+      {
+        "order": 3,
+        "text": "Hervir a fuego alto durante quince minutos la mezcla"
+      },
+      {
+        "order": 4,
+        "text": "Dejar enfriar el líquido aromatizado por completo en cacerola"
+      },
+      {
+        "order": 5,
+        "text": "Colar y verter en botella con atomizador para rociar"
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "level": "hard",
+    "activity": "Preparar fresas con crema",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Lavar muy bien las fresas frescas con agua limpia"
+      },
+      {
+        "order": 2,
+        "text": "Quitar las hojitas verdes con un cuchillo pequeño"
+      },
+      {
+        "order": 3,
+        "text": "Picar las fresas limpias en mitades o cuartos"
+      },
+      {
+        "order": 4,
+        "text": "Mezclar crema de leche con azúcar en un tazón hondo"
+      },
+      {
+        "order": 5,
+        "text": "Agregar las fresas picadas a crema, incorporar y servir"
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "level": "hard",
+    "activity": "Limpiar el horno de microondas",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Retirar el plato giratorio de vidrio del interior"
+      },
+      {
+        "order": 2,
+        "text": "Lavar el plato giratorio en fregadero con jabón"
+      },
+      {
+        "order": 3,
+        "text": "Limpiar las paredes del interior con esponja húmeda"
+      },
+      {
+        "order": 4,
+        "text": "Secar la humedad interior con una toalla de papel"
+      },
+      {
+        "order": 5,
+        "text": "Colocar el plato de vidrio en su eje central y cerrar"
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "level": "hard",
+    "activity": "Preparar té frío de limón",
+    "steps": [
+      {
+        "order": 1,
+        "text": "Hervir cuatro tazas de agua en una cacerola grande"
+      },
+      {
+        "order": 2,
+        "text": "Agregar bolsitas de té negro a agua hirviendo y apagar"
+      },
+      {
+        "order": 3,
+        "text": "Dejar enfriar el té negro a temperatura ambiente"
+      },
+      {
+        "order": 4,
+        "text": "Agregar jugo de limón exprimido y azúcar al gusto"
+      },
+      {
+        "order": 5,
+        "text": "Servir en vasos con abundante hielo para refrescar"
+      }
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "imageEmoji": "🍎",
+    "imageLabel": "Fruta roja",
+    "correctWord": "Manzana",
+    "distractors": ["Naranja", "Uva", "Plátano"]
+  },
+  {
+    "id": 2,
+    "imageEmoji": "🐕",
+    "imageLabel": "Animal doméstico",
+    "correctWord": "Perro",
+    "distractors": ["Gato", "Pájaro", "León"]
+  },
+  {
+    "id": 3,
+    "imageEmoji": "🚗",
+    "imageLabel": "Vehículo",
+    "correctWord": "Carro",
+    "distractors": ["Bicicleta", "Tren", "Avión"]
+  },
+  {
+    "id": 4,
+    "imageEmoji": "🌻",
+    "imageLabel": "Flor amarilla",
+    "correctWord": "Girasol",
+    "distractors": ["Rosa", "Tulipán", "Margarita"]
+  },
+  {
+    "id": 5,
+    "imageEmoji": "🏠",
+    "imageLabel": "Lugar de vida",
+    "correctWord": "Casa",
+    "distractors": ["Tienda", "Escuela", "Castillo"]
+  },
+  {
+    "id": 6,
+    "imageEmoji": "✈️",
+    "imageLabel": "Transporte aéreo",
+    "correctWord": "Avión",
+    "distractors": ["Barco", "Tren", "Helicóptero"]
+  },
+  {
+    "id": 7,
+    "imageEmoji": "🍌",
+    "imageLabel": "Fruta amarilla",
+    "correctWord": "Plátano",
+    "distractors": ["Mango", "Limón", "Coco"]
+  },
+  {
+    "id": 8,
+    "imageEmoji": "📚",
+    "imageLabel": "Objeto de lectura",
+    "correctWord": "Libro",
+    "distractors": ["Cuaderno", "Revista", "Periódico"]
+  },
+  {
+    "id": 9,
+    "imageEmoji": "🌙",
+    "imageLabel": "Astro nocturno",
+    "correctWord": "Luna",
+    "distractors": ["Sol", "Estrella", "Nube"]
+  },
+  {
+    "id": 10,
+    "imageEmoji": "🐟",
+    "imageLabel": "Animal acuático",
+    "correctWord": "Pez",
+    "distractors": ["Tortuga", "Cangrejo", "Ballena"]
+  }
+]

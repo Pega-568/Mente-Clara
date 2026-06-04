@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "category": "Frutas",
+    "items": ["🍎", "🍊", "🍋", "🔑"],
+    "odd": "🔑",
+    "oddIndex": 3,
+    "explanation": "La llave no es una fruta"
+  },
+  {
+    "id": 2,
+    "category": "Animales",
+    "items": ["🐕", "🐈", "🐇", "🚗"],
+    "odd": "🚗",
+    "oddIndex": 3,
+    "explanation": "El carro no es un animal"
+  },
+  {
+    "id": 3,
+    "category": "Muebles",
+    "items": ["🪑", "🛏️", "🚿", "🪞"],
+    "odd": "🚿",
+    "oddIndex": 2,
+    "explanation": "La ducha es del baño, no un mueble"
+  },
+  {
+    "id": 4,
+    "category": "Ropa",
+    "items": ["👕", "👖", "👗", "🍕"],
+    "odd": "🍕",
+    "oddIndex": 3,
+    "explanation": "La pizza no es ropa"
+  },
+  {
+    "id": 5,
+    "category": "Herramientas",
+    "items": ["🔨", "🪛", "✂️", "🌸"],
+    "odd": "🌸",
+    "oddIndex": 3,
+    "explanation": "La flor no es una herramienta"
+  },
+  {
+    "id": 6,
+    "category": "Medios de transporte",
+    "items": ["🚗", "🚌", "🚂", "🍎"],
+    "odd": "🍎",
+    "oddIndex": 3,
+    "explanation": "La manzana no es un transporte"
+  },
+  {
+    "id": 7,
+    "category": "Instrumentos musicales",
+    "items": ["🎸", "🎹", "🥁", "📱"],
+    "odd": "📱",
+    "oddIndex": 3,
+    "explanation": "El teléfono no es un instrumento musical"
+  },
+  {
+    "id": 8,
+    "category": "Verduras",
+    "items": ["🥕", "🥦", "🧅", "🔴"],
+    "odd": "🔴",
+    "oddIndex": 3,
+    "explanation": "El círculo rojo no es una verdura"
+  },
+  {
+    "id": 9,
+    "category": "Deportes",
+    "items": ["⚽", "🏀", "🎾", "🎂"],
+    "odd": "🎂",
+    "oddIndex": 3,
+    "explanation": "El pastel no es un deporte"
+  },
+  {
+    "id": 10,
+    "category": "Útiles escolares",
+    "items": ["✏️", "📏", "📌", "🐸"],
+    "odd": "🐸",
+    "oddIndex": 3,
+    "explanation": "La rana no es un útil escolar"
+  },
+  {
+    "id": 11,
+    "category": "Frutas (Medio)",
+    "items": ["🍇", "🍓", "🍒", "🥝", "📞"],
+    "odd": "📞",
+    "oddIndex": 4,
+    "explanation": "El teléfono no es una fruta"
+  },
+  {
+    "id": 12,
+    "category": "Animales domésticos (Medio)",
+    "items": ["🐕", "🐈", "🐠", "🐇", "🪴"],
+    "odd": "🪴",
+    "oddIndex": 4,
+    "explanation": "La planta no es un animal doméstico"
+  }
+]

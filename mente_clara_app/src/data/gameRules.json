@@ -1,0 +1,66 @@
+{
+  "memoryPairs": {
+    "name": "Parejas de memoria",
+    "objective": "Encontrar todas las parejas de tarjetas iguales.",
+    "instructions": [
+      "Toca una tarjeta para ver qué dibujo oculta.",
+      "Toca otra tarjeta para buscar su pareja.",
+      "Si son iguales, quedarán descubiertas. Si no, se volverán a tapar.",
+      "El juego termina cuando encuentres todas las parejas."
+    ],
+    "tip": "Tómate tu tiempo para recordar dónde estaba cada figura. ¡No hay prisa!"
+  },
+  "colorSequence": {
+    "name": "Secuencia de colores",
+    "objective": "Recordar y repetir la secuencia en que se iluminan los colores.",
+    "instructions": [
+      "Toca el botón 'Iniciar secuencia' para ver el orden de los colores.",
+      "Observa atentamente el orden de los destellos sin tocar los botones.",
+      "Cuando termine la demostración, toca los botones de colores en el mismo orden.",
+      "Si te equivocas, verás la respuesta correcta para volver a intentarlo."
+    ],
+    "tip": "Puedes repetir la secuencia si lo necesitas. Concéntrate en un color a la vez."
+  },
+  "imageWord": {
+    "name": "Imagen y palabra",
+    "objective": "Seleccionar el nombre correcto para el dibujo mostrado.",
+    "instructions": [
+      "Verás una imagen grande en el centro de la pantalla.",
+      "Debajo de ella, habrá varias opciones de palabras.",
+      "Lee las alternativas con tranquilidad.",
+      "Toca la palabra que creas que describe mejor la imagen."
+    ],
+    "tip": "Observa bien los detalles de la imagen. ¡Todas las respuestas nos enseñan algo!"
+  },
+  "oddObject": {
+    "name": "Objeto intruso",
+    "objective": "Encontrar la figura que no pertenece al grupo o categoría.",
+    "instructions": [
+      "Verás un grupo de objetos en pantalla.",
+      "Casi todos comparten una misma categoría (por ejemplo: frutas).",
+      "Uno de los objetos no pertenece a ese grupo (por ejemplo: una llave).",
+      "Identifica el objeto intruso y tócalo."
+    ],
+    "tip": "Piensa en el uso de cada objeto. El intruso tiene un uso muy diferente."
+  },
+  "orderSteps": {
+    "name": "Ordenar pasos",
+    "objective": "Organizar las etapas de una actividad diaria en el orden correcto.",
+    "instructions": [
+      "Verás las etapas desordenadas de una tarea común (como lavarse las manos).",
+      "Toca los pasos en la secuencia correcta, del primero al último.",
+      "Si te equivocas, podrás ver el orden correcto numerado y repetirlo."
+    ],
+    "tip": "Imagínate haciendo la actividad en tu casa paso a paso. ¡Eso ayuda mucho!"
+  },
+  "classifyObjects": {
+    "name": "Clasificar objetos",
+    "objective": "Colocar cada objeto en su grupo correspondiente.",
+    "instructions": [
+      "Verás varios objetos y dos o tres grupos grandes abajo.",
+      "Puedes arrastrar cada objeto con el dedo hasta su contenedor.",
+      "O también, puedes tocar un objeto y luego tocar su grupo de destino."
+    ],
+    "tip": "Si se te dificulta arrastrar, usa el método de tocar el objeto y luego el grupo. ¡Es más cómodo!"
+  }
+}

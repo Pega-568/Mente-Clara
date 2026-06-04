@@ -1,0 +1,6 @@
+[
+  { "id": "rojo",    "label": "Rojo",    "hex": "#E53935", "textColor": "#fff" },
+  { "id": "azul",    "label": "Azul",    "hex": "#1E88E5", "textColor": "#fff" },
+  { "id": "verde",   "label": "Verde",   "hex": "#43A047", "textColor": "#fff" },
+  { "id": "amarillo","label": "Amarillo","hex": "#F9A825", "textColor": "#111" }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "memoryPairs",
+    "name": "Parejas",
+    "description": "Encuentra imágenes iguales",
+    "icon": "style",
+    "accentBg": "bg-primary-container-light",
+    "accentText": "text-primary",
+    "route": "parejas"
+  },
+  {
+    "id": "colorSequence",
+    "name": "Colores",
+    "description": "Recuerda la secuencia",
+    "icon": "palette",
+    "accentBg": "bg-secondary-container-light",
+    "accentText": "text-secondary",
+    "route": "colores"
+  },
+  {
+    "id": "imageWord",
+    "name": "Imagen y palabra",
+    "description": "Elige la palabra correcta",
+    "icon": "match_word",
+    "accentBg": "bg-tertiary-container-light",
+    "accentText": "text-tertiary",
+    "route": "imagen-palabra"
+  },
+  {
+    "id": "oddObject",
+    "name": "Intruso",
+    "description": "Encuentra el objeto diferente",
+    "icon": "extension",
+    "accentBg": "bg-error-container-light",
+    "accentText": "text-error",
+    "route": "intruso"
+  },
+  {
+    "id": "orderSteps",
+    "name": "Ordenar pasos",
+    "description": "Ordena una actividad diaria",
+    "icon": "reorder",
+    "accentBg": "bg-primary-fixed-light",
+    "accentText": "text-primary-container",
+    "route": "ordenar-pasos"
+  },
+  {
+    "id": "classifyObjects",
+    "name": "Clasificar objetos",
+    "description": "Coloca cada objeto en su grupo",
+    "icon": "category",
+    "accentBg": "bg-success-container-light",
+    "accentText": "text-success",
+    "route": "clasificar-objetos"
+  }
+]

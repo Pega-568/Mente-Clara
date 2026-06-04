@@ -1,0 +1,14 @@
+[
+  { "id": 1, "emoji": "🍎", "label": "Manzana" },
+  { "id": 2, "emoji": "🌸", "label": "Flor" },
+  { "id": 3, "emoji": "🐱", "label": "Gato" },
+  { "id": 4, "emoji": "🌙", "label": "Luna" },
+  { "id": 5, "emoji": "🏠", "label": "Casa" },
+  { "id": 6, "emoji": "🌞", "label": "Sol" },
+  { "id": 7, "emoji": "🍋", "label": "Limón" },
+  { "id": 8, "emoji": "🦋", "label": "Mariposa" },
+  { "id": 9, "emoji": "⭐", "label": "Estrella" },
+  { "id": 10, "emoji": "🐦", "label": "Pájaro" },
+  { "id": 11, "emoji": "🌈", "label": "Arcoíris" },
+  { "id": 12, "emoji": "🍓", "label": "Fresa" }
+]
