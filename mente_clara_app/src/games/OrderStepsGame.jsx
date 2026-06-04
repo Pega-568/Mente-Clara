@@ -290,9 +290,9 @@ export default function OrderStepsGame() {
           )}
           <button
             onClick={loadGame}
-            disabled={phase === 'ROUND_RESULT'}
+            disabled={!!feedback}
             className={`flex items-center gap-2 h-[56px] px-6 border-2 border-outline text-on-surface-variant font-main font-bold text-label-lg rounded-xl transition-all ${
-              phase === 'ROUND_RESULT'
+              feedback
                 ? 'opacity-40 cursor-not-allowed'
                 : 'hover:bg-surface-container active:scale-95'
             }`}
